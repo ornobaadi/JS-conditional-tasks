@@ -11,5 +11,5 @@ if(burger > 500){
     console.log('Congratulations! You get a free Coke');
 }
 else{
-    console.log('Sorry! Coke is 30Tk');
+    console.log('Sorry! You cannot claim the offer. Please Pay 30TK for coke');
 }
